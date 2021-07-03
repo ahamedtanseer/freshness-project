@@ -1,0 +1,433 @@
+/*Extra Extra small devices (portrait phones, less than 350px)*/
+@media (max-width: 349.98px) { 
+.social_area {
+    margin-bottom: -30px;
+}
+  .social_area ul li a {
+	width: 30px;
+    height: 30px;
+}
+		.banner {
+    padding-top: 20px;
+}
+		.b_image{
+	width: 100%;
+	height: auto;
+}
+.b_p {
+    margin-bottom: 25px;
+    font-size: 15px;
+}
+.b_content{
+	margin: 15px 0;
+	width: 100%;
+	height: auto;
+}
+.b_h3 {
+    text-align: center;
+    font-size: 30px;
+}
+.intro {
+    padding: 30px 0;
+}
+.intro img {
+    margin-left: 9px;
+    margin-bottom: 20px;
+    width: 70px;
+    height: 60px;
+}
+.service img {
+    margin-bottom: 30px;
+    width: 60px;
+    height: 70px;
+}
+.s_h6 {
+    font-size: 11px;
+    font-weight: 400;
+}
+.i_h3 {
+    margin-bottom: 20px;
+    font-size: 15px;
+    text-align: center;
+}
+.i_p {
+	margin-bottom: 20px;
+    font-size: 9px;
+    line-height: 14px;
+    letter-spacing: 0px;
+    text-align: center;
+}
+.i_a {
+    padding: 2px;
+    font-size: 11px;
+}
+.service {
+    padding: 20px 0;
+}
+.service img {
+	margin-left: -10px;
+    margin-bottom: 30px;
+    width: 55px;
+    height: 70px;
+}
+.s_content {
+    margin-left: 10px;
+}
+.s_h6 {
+    font-size: 13px;
+}
+
+.sc_p {
+    font-size: 8px;
+    letter-spacing: 0px;
+}
+.s_p {
+    margin-bottom: 40px;
+    font-size: 18px;
+}
+.cid {
+    margin-bottom: 20px;
+    padding-left: 70%;
+}
+.f_contact {
+    margin-bottom: 15px;
+    text-align: center;
+}
+.f_blog a {
+	font-size:13px;
+}
+.f_blog p {
+    font-size: 13px;
+}
+.c_p{
+	font-size: 10px;
+}
+.c_p {
+    text-align: center;
+    font-size: 10px;
+}
+.f_news input {
+    margin: 0 50px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+}
+.f_news {
+    text-align: center;
+}
+.f_h3 {
+    font-size: 18px;
+}
+.f_link {
+    margin-bottom: 15px;
+}
+}
+/*Extra Small devices (tablets, 768px and up)*/
+@media (min-width: 350px) and (max-width: 575.98px) {
+		.social_area {
+    margin-bottom: -30px;
+}
+  .social_area ul li a {
+	width: 30px;
+    height: 30px;
+}
+		.banner {
+    padding-top: 20px;
+}
+		.b_image{
+	width: 100%;
+	height: auto;
+}
+.b_p {
+    margin-bottom: 25px;
+    font-size: 15px;
+}
+.b_content{
+	margin: 15px 0;
+	width: 100%;
+	height: auto;
+}
+.b_h3 {
+    text-align: center;
+    font-size: 30px;
+}
+.intro {
+    padding: 30px 0;
+}
+.intro img {
+    margin-left: 50px;
+    margin-bottom: 20px;
+    width: 70px;
+    height: 60px;
+}
+.service img {
+    margin-bottom: 30px;
+    width: 60px;
+    height: 70px;
+}
+.s_h6 {
+    font-size: 11px;
+    font-weight: 400;
+}
+.i_h3 {
+    margin-bottom: 20px;
+    font-size: 15px;
+    text-align: center;
+}
+.i_p {
+	margin-bottom: 20px;
+    font-size: 9px;
+    line-height: 14px;
+    letter-spacing: 0px;
+    text-align: center;
+}
+.i_a {
+    padding: 2px;
+    font-size: 11px;
+}
+.service {
+    padding: 20px 0;
+}
+.service img {
+	margin-left: -10px;
+    margin-bottom: 30px;
+    width: 55px;
+    height: 70px;
+}
+.s_content {
+    margin-left: 10px;
+}
+.s_h6 {
+    font-size: 13px;
+}
+
+.sc_p {
+    font-size: 8px;
+    letter-spacing: 0px;
+}
+.s_p {
+    margin-bottom: 40px;
+    font-size: 18px;
+}
+.cid {
+    margin-bottom: 20px;
+    padding-left: 70%;
+}
+.f_contact {
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.f_blog a {
+	font-size:13px;
+}
+.f_blog p {
+    font-size: 13px;
+}
+.c_p{
+	text-align: center;
+	font-size: 10px;
+}
+.f_news input {
+    margin: 0 170px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+}
+.f_news {
+    text-align: center;
+}
+.f_link {
+    margin-bottom: 15px;
+}
+}
+
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .search{
+			margin-left: -12px;
+			    margin-bottom: 15px;
+		}
+		.search input[type=submit] {
+    padding: 0px;
+}
+.search input {
+    padding: 1px;
+}
+  .social_area {
+    margin-bottom: -30px;
+}
+  .social_area ul li a {
+	width: 30px;
+    height: 30px;
+}
+		.banner {
+    padding-top: 25px;
+}
+		.b_image{
+	width: 100%;
+	height: auto;
+}
+.b_content{
+	margin: 15px 0;
+	width: 100%;
+	height: auto;
+}
+.b_h3 {
+    text-align: center;
+}
+.intro {
+    padding: 30px 0;
+}
+.service {
+    padding: 30px 0;
+}
+.service img {
+    margin-bottom: 30px;
+    width: 60px;
+    height: 68px;
+}
+.s_content {
+    margin-left: 5px;
+}
+.s_h6 {
+    font-size: 16px;
+}
+
+.sc_p {
+    font-size: 10px;
+    letter-spacing: 0px;
+}
+.i_h3 {
+    margin-bottom: 15px;
+    font-size: 16px;
+}
+.i_p {
+    margin-bottom: 15px;
+    font-size: 10px;
+    line-height: 18px;
+    letter-spacing: 0px;
+}
+.cid {
+    margin-bottom: 20px;
+}
+.f_contact {
+    margin-bottom: 15px;
+}
+
+.f_blog a {
+
+    margin-right: 25px;
+   margin-bottom: -5px;
+}
+.c_p2 {
+    margin: -20px 0;
+}
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+		.search{
+			margin-left: -12px;
+		}
+		.banner {
+    padding-top: 25px;
+}
+		.b_image{
+    margin: 0px 125px;
+    align-items: center;
+    width: 100%;
+    height: auto;
+}
+.b_content{
+	margin: 15px 0;
+	width: 100%;
+	height: auto;
+}
+.b_h3 {
+    text-align: center;
+}
+.service img {
+    margin-bottom: 30px;
+    width: 60px;
+    height: 70px;
+}
+.s_content {
+    margin-left: 10px;
+}
+.s_h6 {
+    font-size: 11px;
+}
+
+.sc_p {
+    font-size: 9px;
+    font-weight: 400;
+}
+.i_h3 {
+    margin-bottom: 15px;
+    font-size: 18px;
+}
+.i_p {
+    margin-bottom: 15px;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0px;
+}
+.cid {
+    margin-bottom: 20px;
+}
+.f_h3 {
+    font-size: 18px;
+}
+.f_p {
+    font-size: 10px;
+}
+.f_link ul li a {
+	font-size: 10px;
+}
+.f_blog a{
+    font-size: 10px !important;
+}
+.f_blog p {
+    font-size: 9px;
+}
+.f_a {
+    padding: 0px;
+}
+.f_news input {
+    margin-bottom: 5px;
+    padding: 3px;
+    border-radius: 10px;
+   }
+.f_news input[type=submit] {
+    padding: 2px;
+}
+
+.c_p2 {
+    margin: -20px 0;
+}
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+.search {
+    margin-left: -20px;
+}
+
+/**Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+.search {
+    margin-left: -20px;
+}
+}
+
+/*Extra extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+.search {
+    margin-left: -20px !important;
+}
+}
